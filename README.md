@@ -17,6 +17,7 @@ Welcome to the Library Management App, a Frappe framework-based solution tailore
 ## Installation
 
 Ensure the Frappe framework is installed. Refer to the [Frappe Installation Guide](https://frappeframework.com/docs/user/en/installation).
+Make sure you are on frappe-bench directory
 
 ### Installation Steps:
 
