@@ -22,7 +22,7 @@ Ensure the Frappe framework is installed. Refer to the [Frappe Installation Guid
 
 1. **Install the App:**
    ```bash
-   bench get-app --https://github.com/nelsonmpanju/library-management-app.git
+   bench get-app https://github.com/nelsonmpanju/library-management-app.git
    ```
 
 2. **Create a New Site:**
